@@ -15,7 +15,7 @@ This capstone will take the problem from the Kaggle competition ["WSDM - KKBox's
 Data can be downloaded from [https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data](https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data)
 
 ## Software and Libraries
-This project executed on Python 2.7 and the following libraries.
+This project executed on Python 2.7 (Windows 10) and the following libraries.
 
 - NumPy
 - Pandas
